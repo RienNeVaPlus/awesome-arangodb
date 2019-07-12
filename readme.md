@@ -1,16 +1,15 @@
-# Awesome ArangoDB 🥑 
+# Awesome ArangoDB 🥑 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+> Carefully curated list of awesome ArangoDB resources.
 
-Awesome ArangoDB is an quick overview about ArangoDB as well as a list of awesome ArangoDB resources and extensions. *The information is provided and kept up-to-date by [you](https://github.com/RienNeVaPlus/awesome-arangodb/blob/master/CONTRIBUTE.md), don't hesitate to create a [pull request](https://github.com/RienNeVaPlus/awesome-arangodb/pulls).* 
-
+[Contributions](./contributing.md) welcome. Add links through [pull requests](https://github.com/RienNeVaPlus/awesome-arangodb/pulls) or create an [issue](https://github.com/RienNeVaPlus/awesome-arangodb/issues) to start a discussion.
+ 
 <sup>*Note: <code>\*</code> indicates an official ArangoDB resource.*</sup>
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
 ![divider](divider.small.png)
-### 📑 Table of contents
+### Contents
 
-- [What is ArangoDB?](#what-is-arangodb)
-- [What are Foxx Microservices?](#what-are-foxx-microservices)
+- [What is ArangoDB](#what-is-arangodb)
+- [What are Foxx Microservices](#what-are-foxx-microservices)
 - [Tutorials](#-tutorials)
 - [Links](#-links)
 - [Documentation](#-documentation)
@@ -19,12 +18,10 @@ Awesome ArangoDB is an quick overview about ArangoDB as well as a list of awesom
 - [Awesome Repositories](#-awesome-repositories)
 - [Awesome Articles](#-awesome-articles)
 - [Awesome Videos](#-awesome-videos)
-- [License](#-license)
-- [Contributors](#-contributors)
 
 ![divider](divider.png)
 
-### What is ArangoDB?
+### What is ArangoDB
 
 ArangoDB is a native [multi-model database](https://en.wikipedia.org/wiki/Multi-model_database) system developed by [ArangoDB GmbH](https://www.arangodb.com). The database system supports three data models (key/value, documents, graphs) with one database core and a unified query language AQL (ArangoDB Query Language). The query language is declarative and allows the combination of different data access patterns in a single query. ArangoDB is a NoSQL database system but AQL is similar in many ways to SQL. 
 
@@ -34,7 +31,7 @@ ArangoDB is a native [multi-model database](https://en.wikipedia.org/wiki/Multi-
 
 ![divider](divider.small.png)
 
-### What are Foxx Microservices?
+### What are Foxx Microservices
 
 ArangoDB allows application developers to write their data access and domain logic as microservices running directly within the database with native access to in-memory data. The Foxx microservice framework makes it easy to extend ArangoDB’s own REST API with custom HTTP endpoints using modern JavaScript running on the same V8 engine you know from Node.js and the Google Chrome web browser.
 
@@ -44,13 +41,13 @@ ArangoDB allows application developers to write their data access and domain log
 
 ### 🔗 Links
 - [ArangoDB.com](http://www.arangodb.com)*
-- [Download ArangoDB](https://www.arangodb.com/download-arangodb-docs/)*
-- [Github](https://github.com/arangodb/arangodb)*
+- [Download ArangoDB](https://www.arangodb.com/download-major/)*
+- [GitHub](https://github.com/arangodb/arangodb)*
 - [Slack](https://slack.arangodb.com/)*
 - [Twitter](https://twitter.com/arangodb)*
 - [YouTube](https://www.youtube.com/user/ArangoDB)*
 - [Google Groups](https://groups.google.com/forum/#!forum/arangodb)*
-- [StackOverflow](https://stackoverflow.com/questions/tagged/arangodb)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/arangodb)
 
 ![divider](divider.small.png)
 
@@ -73,7 +70,7 @@ ArangoDB allows application developers to write their data access and domain log
 
 ### 🛠️ Tools
 - [ArangoDB Server](https://www.arangodb.com/docs/stable/programs-arangod.html)* - The ArangoDB daemon (`arangod`) is the central server binary, which can run in different modes for a variety of setups like single server and clusters.
-- [Web Interface](https://www.arangodb.com/docs/stable/programs-web-interface.html)* - The Web Interface (also `Aardvark`, `frontend` or `Web UI`) can be accessed with a browser under the URL http://localhost:8529 with default server settings.
+- [Web Interface](https://www.arangodb.com/docs/stable/programs-web-interface.html)* - The Web Interface (also `Aardvark`, `frontend` or `Web UI`) can be accessed with a browser under the URL `http://localhost:8529` with default server settings.
 - [ArangoDB Shell](https://www.arangodb.com/docs/stable/programs-arangosh.html)* - The ArangoDB shell (`arangosh`) is a command-line client tool that can be used for administration of ArangoDB servers.
 - [ArangoDB Starter](https://www.arangodb.com/docs/stable/programs-starter.html)* - The ArangoDB Starter is a tool that can help you deploy ArangoDB in an easy way (either in single-instance, active/passive or Cluster mode).
 - [Arangodump](https://www.arangodb.com/docs/stable/programs-arangodump.html)* - Arangodump is a command-line client tool to create backups of the data and structures stored in ArangoDB.
@@ -111,7 +108,7 @@ ArangoDB allows application developers to write their data access and domain log
 - **Scala**
   - [Scarango](https://github.com/outr/scarango)
 - **Ruby**
-   - [ArangoRB](https://github.com/StefanoMartin/ArangoRB)
+  - [ArangoRB](https://github.com/StefanoMartin/ArangoRB)
 
 ![divider](divider.png)
 
@@ -119,7 +116,7 @@ ArangoDB allows application developers to write their data access and domain log
 
 3rd party tools and extensions to use with ArangoDB. 
 
-> 🔥 The list is maintained by [you](./CONTRIBUTE.md).
+> 🔥 The list is maintained by [you](./contributing.md).
 
 ![divider](divider.small.png)
 #### Adapters & connectors
@@ -146,8 +143,8 @@ ArangoDB allows application developers to write their data access and domain log
 - [type-arango](https://github.com/RienNeVaPlus/type-arango) - Powerful decorators for ArangoDB Foxx Apps when working with TypeScript.
 - [orongo](https://github.com/roboncode/orango) - ArangoDB Object Modeling for Node.js, Foxx and Modern Web Browsers.
 - [pims](https://github.com/UnwrittenFun/pims) - An ORM for document-oriented database systems, written in and for TypeScript.
-- [ignitor](https://github.com/TylerGarlick/ignitor.js) - Ignitor is a ArangoDb (http://arangodb.org/) Object Data Modeling (ODM) framework similar to mongoose.
-- [caminte](https://github.com/biggora/caminte) - CaminteJS is cross-db ORM for nodejs, providing common interface to access most popular database formats.
+- [ignitor](https://github.com/TylerGarlick/ignitor.js) - Ignitor is a ArangoDB Object Data Modeling (ODM) framework similar to mongoose.
+- [caminte](https://github.com/biggora/caminte) - CaminteJS is cross-db ORM for Node.js, providing common interface to access most popular database formats.
 - [arangetrum](https://github.com/mustertech/arangetrum) - 
 Simple library to create and use models for ArangoDB.
 
