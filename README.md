@@ -56,7 +56,7 @@ ArangoDB allows application developers to write their data access and domain log
 - [Tutorial Overview](https://www.arangodb.com/docs/stable/tutorials.html)*
 - [Training Center](https://www.arangodb.com/arangodb-training-center/)*
 - [Cookbook](https://www.arangodb.com/docs/stable/cookbook/index.html)*
-- [Udemy Video Course](https://www.udemy.com/getting-started-with-arangodb/) - Getting started with ArangoDB*
+- [Udemy Video Course](https://www.udemy.com/getting-started-with-arangodb/)* - Getting started with ArangoDB
 
 ![divider](divider.small.png)
 
@@ -171,6 +171,7 @@ Simple library to create and use models for ArangoDB.
 - Using Typescript for programming ArangoDB FOXX services - [devblog.ztp.pt](http://devblog.ztp.pt/using-typescript-for-programming-arangodb-foxx-services/) - *2016-10-23*
 - Using GraphQL with NoSQL database ArangoDB - [arangodb.com](https://www.arangodb.com/2016/02/using-graphql-nosql-database-arangodb/) - *2016-02-17*
 - Data modeling with multi-model databases - [oreilly.com](https://www.oreilly.com/ideas/data-modeling-with-multi-model-databases) - *2015-07-07*
+
 ![divider](divider.png)
 
 ### 🎞️ Awesome Videos
