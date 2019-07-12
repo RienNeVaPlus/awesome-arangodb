@@ -19,6 +19,7 @@ Awesome ArangoDB is an quick overview about ArangoDB as well as a list of awesom
 - [Awesome Repositories](#-awesome-repositories)
 - [Awesome Articles](#-awesome-articles)
 - [Awesome Videos](#-awesome-videos)
+- [License](#-license)
 - [Contributors](#-contributors)
 
 ![divider](divider.png)
@@ -180,6 +181,11 @@ Simple library to create and use models for ArangoDB.
 - ArangoDB Graph Database Syntax - [YouTube@ArangoDB](https://youtu.be/0U8TfLOp184) - *2019-04-18*
 - GraphQL and ArangoDB - [YouTube@ArangoDB](https://youtu.be/vaUdiWU-src) - *2017-04-27*
 - Andreas Jung – The hunt for the right NoSQL database. Why we love ArangoDB - [YouTube@PyMunich](https://youtu.be/Fi8oO_MkkWo) - *2016-11-18*
+
+![divider](divider.png)
+
+### 🧾 License
+[MIT](LICENSE)
 
 ![divider](divider.png)
 
