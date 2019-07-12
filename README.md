@@ -25,9 +25,9 @@ Awesome ArangoDB is an quick overview about ArangoDB as well as a list of awesom
 
 ArangoDB is a native [multi-model database](https://en.wikipedia.org/wiki/Multi-model_database) system developed by [ArangoDB GmbH](https://www.arangodb.com). The database system supports three data models (key/value, documents, graphs) with one database core and a unified query language AQL (ArangoDB Query Language). The query language is declarative and allows the combination of different data access patterns in a single query. ArangoDB is a NoSQL database system but AQL is similar in many ways to SQL. 
 
-- Watch the official introduction: 🎞️ [Modern data modeling: Multi-Model approach using ArangoDB](https://www.youtube.com/watch?v=on1l2pEEWnw)
-- Or start with a real-world example: 🎞️ [An e-commerce app in action built on top of a multi-model database](https://youtu.be/lF1Bd-NYmAk?t=55)
-- Or scroll some text: 📰 [ArangoDB in 10 Minutes: CRUD](https://www.arangodb.com/tutorials/arangodb-crud/)
+- Watch the official introduction: 🎞️ [Modern data modeling: Multi-Model approach using ArangoDB](https://www.youtube.com/watch?v=on1l2pEEWnw)*
+- Or start with a real-world example: 🎞️ [An e-commerce app in action built on top of a multi-model database](https://youtu.be/lF1Bd-NYmAk?t=55)*
+- Or scroll some text: 📰 [ArangoDB in 10 Minutes: CRUD](https://www.arangodb.com/tutorials/arangodb-crud/)*
 
 ![divider](divider.small.png)
 
@@ -35,7 +35,7 @@ ArangoDB is a native [multi-model database](https://en.wikipedia.org/wiki/Multi-
 
 ArangoDB allows application developers to write their data access and domain logic as microservices running directly within the database with native access to in-memory data. The Foxx microservice framework makes it easy to extend ArangoDB’s own REST API with custom HTTP endpoints using modern JavaScript running on the same V8 engine you know from Node.js and the Google Chrome web browser.
 
-- 📰 Read more on [Foxx Microservices](https://www.arangodb.com/docs/stable/foxx.html)
+- 📰 Read more on [Foxx Microservices](https://www.arangodb.com/docs/stable/foxx.html)*
 
 ![divider](divider.png)
 
