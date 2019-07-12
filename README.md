@@ -56,6 +56,7 @@ ArangoDB allows application developers to write their data access and domain log
 - [Tutorial Overview](https://www.arangodb.com/docs/stable/tutorials.html)*
 - [Training Center](https://www.arangodb.com/arangodb-training-center/)*
 - [Cookbook](https://www.arangodb.com/docs/stable/cookbook/index.html)*
+- [Udemy Video Course](https://www.udemy.com/getting-started-with-arangodb/) - Getting started with ArangoDB*
 
 ![divider](divider.small.png)
 
@@ -156,7 +157,7 @@ Simple library to create and use models for ArangoDB.
 ![divider](divider.small.png)
 #### Miscellaneous
 - [arangodb-error-codes](https://github.com/oprogramador/arangodb-error-codes) - ArangoDB 3 error codes according to the official documentation.
-- [arangochai](https://github.com/baslr/arangochair) - Pushes ArangoDB changes in realtime to the client.
+- [arangochair](https://github.com/baslr/arangochair) - Pushes ArangoDB changes in realtime to the client.
 - [arangodep](https://github.com/kaerus/arangodep) - Arango deployment tools.
 
 ![divider](divider.png)
@@ -169,7 +170,7 @@ Simple library to create and use models for ArangoDB.
 - ArangoDB and GraphQL - [mikewilliamson.wordpress.com](https://mikewilliamson.wordpress.com/2017/03/24/arangodb-and-graphql/) - *2017-03-24*
 - Using Typescript for programming ArangoDB FOXX services - [devblog.ztp.pt](http://devblog.ztp.pt/using-typescript-for-programming-arangodb-foxx-services/) - *2016-10-23*
 - Using GraphQL with NoSQL database ArangoDB - [arangodb.com](https://www.arangodb.com/2016/02/using-graphql-nosql-database-arangodb/) - *2016-02-17*
-
+- Data modeling with multi-model databases - [oreilly.com](https://www.oreilly.com/ideas/data-modeling-with-multi-model-databases) - *2015-07-07*
 ![divider](divider.png)
 
 ### 🎞️ Awesome Videos
