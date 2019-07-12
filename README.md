@@ -1,8 +1,10 @@
 # Awesome ArangoDB 🥑 
 
-Awesome ArangoDB is an quick overview about ArangoDB as well as a list of awesome ArangoDB resources and extensions. *The information is provided and kept up-to-date by [you](https://github.com/RienNeVaPlus/awesome-arangodb/blob/master/CONTRIBUTE.md), don't hesitate to create a [pull request](https://github.com/RienNeVaPlus/awesome-arangodb/pulls).*
+Awesome ArangoDB is an quick overview about ArangoDB as well as a list of awesome ArangoDB resources and extensions. *The information is provided and kept up-to-date by [you](https://github.com/RienNeVaPlus/awesome-arangodb/blob/master/CONTRIBUTE.md), don't hesitate to create a [pull request](https://github.com/RienNeVaPlus/awesome-arangodb/pulls).* 
 
-> <i>Note: <code>*</code> indicates an official ArangoDB resource</i>
+<sup>*Note: <code>\*</code> indicates an official ArangoDB resource.*</sup>
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ![divider](divider.small.png)
 ### 📑 Table of contents
