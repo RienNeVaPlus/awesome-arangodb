@@ -8,16 +8,16 @@
 ![divider](divider.small.png)
 ### Contents
 
-- [What is ArangoDB](#what-is-arangodb)
-- [What are Foxx Microservices](#what-are-foxx-microservices)
-- [Tutorials](#-tutorials)
-- [Links](#-links)
-- [Documentation](#-documentation)
-- [Tools](#-tools)
-- [Drivers](#-drivers)
-- [Awesome Repositories](#-awesome-repositories)
-- [Awesome Articles](#-awesome-articles)
-- [Awesome Videos](#-awesome-videos)
+1. [What is ArangoDB](#what-is-arangodb)
+2. [What are Foxx Microservices](#what-are-foxx-microservices)
+3. [Tutorials](#-tutorials)
+4. [Links](#-links)
+5. [Documentation](#-documentation)
+6. [Tools](#-tools)
+7. [Drivers](#-drivers)
+8. [Awesome Repositories](#-awesome-repositories)
+9. [Awesome Articles](#-awesome-articles)
+10. [Awesome Videos](#-awesome-videos)
 
 ![divider](divider.png)
 
