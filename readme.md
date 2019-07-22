@@ -116,6 +116,8 @@ ArangoDB allows application developers to write their data access and domain log
 
 3rd party tools and extensions to use with ArangoDB. 
 
+- [ArangoDB Timetravel:](https://developers.bonsaya.com/)* - ArangoDB Timetravel is a time-sliced wrapper over the existing ArangoDB Foxx functionality that allows the traversal of your data in time.
+
 > 🔥 The list is maintained by [you](./contributing.md).
 
 ![divider](divider.small.png)
