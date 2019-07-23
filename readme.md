@@ -159,6 +159,7 @@ Simple library to create and use models for ArangoDB.
 - [arangodb-error-codes](https://github.com/oprogramador/arangodb-error-codes) - ArangoDB 3 error codes according to the official documentation.
 - [arangochair](https://github.com/baslr/arangochair) - Pushes ArangoDB changes in realtime to the client.
 - [arangodep](https://github.com/kaerus/arangodep) - Arango deployment tools.
+- [ArangoDB Timetravel:](https://developers.bonsaya.com/) - ArangoDB Timetravel is a time-sliced wrapper over the existing ArangoDB Foxx functionality that allows the traversal of your data in time.
 
 ![divider](divider.png)
 
