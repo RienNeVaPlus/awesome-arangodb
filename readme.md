@@ -160,6 +160,8 @@ Simple library to create and use models for ArangoDB.
 - [arangochair](https://github.com/baslr/arangochair) - Pushes ArangoDB changes in realtime to the client.
 - [arangodep](https://github.com/kaerus/arangodep) - Arango deployment tools.
 - [ArangoDB Timetravel:](https://developers.bonsaya.com/) - ArangoDB Timetravel is a time-sliced wrapper over the existing ArangoDB Foxx functionality that allows the traversal of your data in time.
+- [RecallGraph](https://github.com/RecallGraph/RecallGraph) - A versioning data store for time-variant graph data.
+RecallGraph is a versioned-graph data store - it retains all changes that its data (vertices and edges) have gone through to reach their current state. It supports point-in-time graph traversals, letting the user query any past state of the graph just as easily as the present.
 
 ![divider](divider.png)
 
